@@ -1,6 +1,6 @@
 function HeroSection() {
     return (
-        <div className="mt-[50px] flex w-[1300px] gap-[100px]">
+        <div className="mt-[50px] flex max-xl:flex-col w-[1300px] gap-[100px]">
             <div className="flex flex-col gap-[20px] w-[50%]">
                 <div className="text-9xl font-extrabold uppercase">
                     <h1>Your feet deserve the best</h1>
